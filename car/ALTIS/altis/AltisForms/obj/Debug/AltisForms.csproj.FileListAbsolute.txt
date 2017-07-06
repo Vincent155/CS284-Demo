@@ -1,0 +1,8 @@
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\bin\Debug\AltisForms.exe
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\bin\Debug\AltisForms.pdb
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\Debug\AltisForms.csprojResolveAssemblyReference.cache
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\Debug\AltisForms.AltisForm.resources
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\Debug\AltisForms.Properties.Resources.resources
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\Debug\AltisForms.csproj.GenerateResource.Cache
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\Debug\AltisForms.exe
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\Debug\AltisForms.pdb

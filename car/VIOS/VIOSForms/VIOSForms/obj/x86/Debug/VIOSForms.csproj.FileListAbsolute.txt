@@ -1,0 +1,8 @@
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\bin\x86\Debug\VIOSForms.exe
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\bin\x86\Debug\VIOSForms.pdb
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\obj\x86\Debug\VIOSForms.csprojResolveAssemblyReference.cache
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\obj\x86\Debug\VIOSForms.Properties.Resources.resources
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\obj\x86\Debug\VIOSForms.VIOSForm.resources
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\obj\x86\Debug\VIOSForms.csproj.GenerateResource.Cache
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\obj\x86\Debug\VIOSForms.exe
+C:\Users\wei\Desktop\Demo\car\VIOS\VIOSForms\VIOSForms\obj\x86\Debug\VIOSForms.pdb

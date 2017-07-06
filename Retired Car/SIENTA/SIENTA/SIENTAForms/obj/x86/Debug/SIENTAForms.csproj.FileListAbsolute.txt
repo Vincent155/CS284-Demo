@@ -1,0 +1,7 @@
+C:\Users\wei\Desktop\Demo\Retired Car\SIENTA\SIENTA\SIENTAForms\bin\x86\Debug\SIENTAForms.exe
+C:\Users\wei\Desktop\Demo\Retired Car\SIENTA\SIENTA\SIENTAForms\bin\x86\Debug\SIENTAForms.pdb
+C:\Users\wei\Desktop\Demo\Retired Car\SIENTA\SIENTA\SIENTAForms\obj\x86\Debug\SIENTAForms.SientaForm.resources
+C:\Users\wei\Desktop\Demo\Retired Car\SIENTA\SIENTA\SIENTAForms\obj\x86\Debug\SIENTAForms.Properties.Resources.resources
+C:\Users\wei\Desktop\Demo\Retired Car\SIENTA\SIENTA\SIENTAForms\obj\x86\Debug\SIENTAForms.csproj.GenerateResource.Cache
+C:\Users\wei\Desktop\Demo\Retired Car\SIENTA\SIENTA\SIENTAForms\obj\x86\Debug\SIENTAForms.exe
+C:\Users\wei\Desktop\Demo\Retired Car\SIENTA\SIENTA\SIENTAForms\obj\x86\Debug\SIENTAForms.pdb

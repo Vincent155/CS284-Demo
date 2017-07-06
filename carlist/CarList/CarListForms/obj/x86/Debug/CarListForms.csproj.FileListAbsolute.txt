@@ -1,0 +1,12 @@
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\bin\x86\Debug\CarListForms.exe
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\bin\x86\Debug\CarListForms.pdb
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\obj\x86\Debug\CarListForms.csprojResolveAssemblyReference.cache
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\obj\x86\Debug\CarListForms.carListForm.resources
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\obj\x86\Debug\CarListForms.Properties.Resources.resources
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\obj\x86\Debug\CarListForms.csproj.GenerateResource.Cache
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\obj\x86\Debug\CarListForms.exe
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\obj\x86\Debug\CarListForms.pdb
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\bin\x86\Debug\AltisForms.exe
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\bin\x86\Debug\VIOSForms.exe
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\bin\x86\Debug\AltisForms.pdb
+C:\Users\wei\Desktop\Demo\carlist\CarList\CarListForms\bin\x86\Debug\VIOSForms.pdb

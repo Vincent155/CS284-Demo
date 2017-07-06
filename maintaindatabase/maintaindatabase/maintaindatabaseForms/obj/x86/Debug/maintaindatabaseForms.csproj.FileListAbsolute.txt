@@ -1,0 +1,10 @@
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\obj\x86\Debug\maintaindatabaseForms.csprojResolveAssemblyReference.cache
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\obj\x86\Debug\maintaindatabaseForms.maintaindatabaseForm.resources
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\obj\x86\Debug\maintaindatabaseForms.Properties.Resources.resources
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\obj\x86\Debug\maintaindatabaseForms.csproj.GenerateResource.Cache
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\bin\x86\Debug\maintaindatabaseForms.exe
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\bin\x86\Debug\maintaindatabaseForms.pdb
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\obj\x86\Debug\maintaindatabaseForms.exe
+C:\Users\wei\Desktop\Demo\maintaindatabase\maintaindatabase\maintaindatabaseForms\obj\x86\Debug\maintaindatabaseForms.pdb

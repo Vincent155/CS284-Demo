@@ -1,0 +1,7 @@
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\bin\x86\Debug\AltisForms.exe
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\bin\x86\Debug\AltisForms.pdb
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\x86\Debug\AltisForms.AltisForm.resources
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\x86\Debug\AltisForms.Properties.Resources.resources
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\x86\Debug\AltisForms.csproj.GenerateResource.Cache
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\x86\Debug\AltisForms.exe
+C:\Users\wei\Desktop\Demo\car\ALTIS\altis\AltisForms\obj\x86\Debug\AltisForms.pdb
